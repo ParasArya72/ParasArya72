@@ -1,0 +1,6 @@
+- My Portfolio Url : https://parasarya72.github.io/Portfolio-Paras/
+- 👋 Hi, I’m @ParasArya72
+- 👀 I’m interested in Web Designing, Building UIs of Website/webpages
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate
+- 📫 Email Address - Parasarya72@gmail.com
